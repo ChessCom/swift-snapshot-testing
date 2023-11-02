@@ -509,7 +509,6 @@
         {
           let base: [UITraitCollection] = [
             .init(forceTouchCapability: .available),
-            .init(layoutDirection: .leftToRight),
             .init(preferredContentSizeCategory: .medium),
             .init(userInterfaceIdiom: .phone),
           ]
@@ -536,7 +535,6 @@
         {
           let base: [UITraitCollection] = [
             .init(forceTouchCapability: .available),
-            .init(layoutDirection: .leftToRight),
             .init(preferredContentSizeCategory: .medium),
             .init(userInterfaceIdiom: .phone),
           ]
@@ -563,7 +561,6 @@
         {
           let base: [UITraitCollection] = [
             .init(forceTouchCapability: .available),
-            .init(layoutDirection: .leftToRight),
             .init(preferredContentSizeCategory: .medium),
             .init(userInterfaceIdiom: .phone),
           ]
@@ -590,7 +587,6 @@
         {
           let base: [UITraitCollection] = [
             .init(forceTouchCapability: .available),
-            .init(layoutDirection: .leftToRight),
             .init(preferredContentSizeCategory: .medium),
             .init(userInterfaceIdiom: .phone),
           ]
@@ -617,7 +613,6 @@
         {
           let base: [UITraitCollection] = [
             .init(forceTouchCapability: .unavailable),
-            .init(layoutDirection: .leftToRight),
             .init(preferredContentSizeCategory: .medium),
             .init(userInterfaceIdiom: .phone),
           ]
@@ -644,7 +639,6 @@
         {
           let base: [UITraitCollection] = [
             .init(forceTouchCapability: .available),
-            .init(layoutDirection: .leftToRight),
             .init(preferredContentSizeCategory: .medium),
             .init(userInterfaceIdiom: .phone),
           ]
@@ -671,7 +665,6 @@
         {
           let base: [UITraitCollection] = [
             .init(forceTouchCapability: .available),
-            .init(layoutDirection: .leftToRight),
             .init(preferredContentSizeCategory: .medium),
             .init(userInterfaceIdiom: .phone),
           ]
@@ -698,7 +691,6 @@
         {
           let base: [UITraitCollection] = [
             .init(forceTouchCapability: .available),
-            .init(layoutDirection: .leftToRight),
             .init(preferredContentSizeCategory: .medium),
             .init(userInterfaceIdiom: .phone),
           ]
@@ -724,7 +716,6 @@
         {
           let base: [UITraitCollection] = [
             .init(forceTouchCapability: .available),
-            .init(layoutDirection: .leftToRight),
             .init(preferredContentSizeCategory: .medium),
             .init(userInterfaceIdiom: .phone),
           ]
@@ -751,7 +742,6 @@
         {
           let base: [UITraitCollection] = [
             .init(forceTouchCapability: .available),
-            .init(layoutDirection: .leftToRight),
             .init(preferredContentSizeCategory: .medium),
             .init(userInterfaceIdiom: .phone),
           ]
